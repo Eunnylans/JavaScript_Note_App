@@ -1,1 +1,2 @@
-# Jotting_App
+# Note_App
+
