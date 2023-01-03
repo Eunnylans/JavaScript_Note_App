@@ -1,5 +1,5 @@
 # Note_App
 
-# DOM Manipulation
+# DOM Manipulation Practice
 
-# Storage Location
+# Storage Location Practice
